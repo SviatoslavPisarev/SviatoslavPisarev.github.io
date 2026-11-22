@@ -19,5 +19,3 @@ languages, stars). It reads your username from the web address automatically whe
 | Matsui Lab site commit stats | `assets/js/config.js` → `labSiteStats` |
 | Colors, fonts, layout | `assets/css/style.css` (tokens at the top) |
 | Photo / poster | `assets/img/` (keep the same file names) |
-
-To add a CV: put the PDF in `assets/` and set `cv: "assets/your-cv.pdf"` in `config.js`.
