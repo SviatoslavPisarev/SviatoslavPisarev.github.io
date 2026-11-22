@@ -2,9 +2,7 @@
   Site settings. Edit these values, then re-upload this file.
 
   github.username
-    Leave it empty ("") and the site reads your username from the web address
-    when it is hosted at https://<username>.github.io. Type it in only if the
-    site lives somewhere else (a custom domain, for example).
+    Your GitHub username, used for the GitHub links.
 */
 window.SITE_CONFIG = {
   hero: {
@@ -14,9 +12,7 @@ window.SITE_CONFIG = {
   },
 
   github: {
-    username: "SviatoslavPisarev",
-    // How many of your public repositories to show as cards
-    repoCards: 6
+    username: "SviatoslavPisarev"
   },
 
   links: {
